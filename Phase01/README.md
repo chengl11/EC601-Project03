@@ -15,11 +15,8 @@ For this project, phase 01 is to test the WebRTC JavaScript code samples. All of
 
 1. **Fork the copy of https://github.com/webrtc/samples into my account https://github.com/chengl11/samples.**
 
-
 2. **Open repository in VS Code by using GitHub Desktop.**
-
-
-![Image of github-destop](https://github.com/chengl11/EC601-Project03/blob/main/Phase01/images/github-destop.png)
+![Image of github-destop](https://github.com/chengl11/EC601-Project03/blob/main/Phase01/images/github-destop.png)\
 ![Image of samples-code-in-VSCode](https://github.com/chengl11/EC601-Project03/blob/main/Phase01/images/samples-in-vscode.png)
 
 
@@ -32,10 +29,8 @@ For this project, phase 01 is to test the WebRTC JavaScript code samples. All of
 4. **Open samples and test each of them.**
 
 
-![Image of Basic-getUserMedia-demo](https://github.com/chengl11/EC601-Project03/blob/main/Phase01/images/Basic-getUserMedia-demo.png)
-
-![Image of basic-peer-connection-demo](https://github.com/chengl11/EC601-Project03/blob/main/Phase01/images/basic-peer-connection-demo.png)
-
+![Image of Basic-getUserMedia-demo](https://github.com/chengl11/EC601-Project03/blob/main/Phase01/images/Basic-getUserMedia-demo.png)\
+![Image of basic-peer-connection-demo](https://github.com/chengl11/EC601-Project03/blob/main/Phase01/images/basic-peer-connection-demo.png)\
 ![Image of transmit-text.png](https://github.com/chengl11/EC601-Project03/blob/main/Phase01/images/transmit-text.png)
 
 
