@@ -19,7 +19,7 @@ This is a repository for EC601 Project03 Phase 01. This phase is to test the Web
 ![Image of main-page-of-samples in](Phase01\images\main-page-of-samples.png)
 
 4. Open samples and test each of them.
-![Image of Basic-getUserMedia-demo](Phase01\images\Basic-getUserMedia-demo.png)
+![Image of Basic-getUserMedia-demo](https://github.com/chengl11/EC601-Project03/blob/main/Phase01/images/Basic-getUserMedia-demo.png)
 ![Image of basic-peer-connection-demo](Phase01\images\basic-peer-connection-demo.png)
 ![Image of transmit-text.png](Phase01\images\transmit-text.png)
 
