@@ -1,7 +1,7 @@
 # EC601-Project03-Phase01
-Author Name: Lin Cheng (U14828854)\
-Created Date: 10/12/2020\
-Project Name: EC601-Project03-Phase01\
+**Author Name:** Lin Cheng (U14828854)\
+**Due Date:** 10/12/2020\
+**Project Name:** EC601-Project03-Phase01
 
 ### Description
 
@@ -9,18 +9,18 @@ This is a repository for EC601 Project03 Phase 01. This phase is to test the Web
 
 ### Testing Step
 
-1. Fork the copy of https://github.com/webrtc/samples into my account https://github.com/chengl11/samples.
+1. **Fork the copy of https://github.com/webrtc/samples into my account https://github.com/chengl11/samples.**
 
-2. Open repository in VS Code by using GitHub Desktop.
-![Image of github-destop](https://github.com/chengl11/EC601-Project03/blob/main/Phase01/images/github-destop.png)
-![Image of samples-code-in-VSCode](https://github.com/chengl11/EC601-Project03/blob/main/Phase01/images/samples-in-vscode.png)
+2. **Open repository in VS Code by using GitHub Desktop.**
+![Image of github-destop](https://github.com/chengl11/EC601-Project03/blob/main/Phase01/images/github-destop.png){:height="50%" width="50%"}
+![Image of samples-code-in-VSCode](https://github.com/chengl11/EC601-Project03/blob/main/Phase01/images/samples-in-vscode.png){:height="50%" width="50%"}
 
-3. Open index.html in my browser Chrome.
-![Image of main-page-of-samples in](https://github.com/chengl11/EC601-Project03/blob/main/Phase01/images/main-page-of-samples.png)
+3. **Open index.html in my browser Chrome.**
+![Image of main-page-of-samples in](https://github.com/chengl11/EC601-Project03/blob/main/Phase01/images/main-page-of-samples.png){:height="50%" width="50%"}
 
-4. Open samples and test each of them.
-![Image of Basic-getUserMedia-demo](https://github.com/chengl11/EC601-Project03/blob/main/Phase01/images/Basic-getUserMedia-demo.png)
-![Image of basic-peer-connection-demo](https://github.com/chengl11/EC601-Project03/blob/main/Phase01/images/basic-peer-connection-demo.png)
-![Image of transmit-text.png](https://github.com/chengl11/EC601-Project03/blob/main/Phase01/images/transmit-text.png)
+4. **Open samples and test each of them.**
+![Image of Basic-getUserMedia-demo](https://github.com/chengl11/EC601-Project03/blob/main/Phase01/images/Basic-getUserMedia-demo.png){:height="50%" width="50%"}
+![Image of basic-peer-connection-demo](https://github.com/chengl11/EC601-Project03/blob/main/Phase01/images/basic-peer-connection-demo.png){:height="50%" width="50%"}
+![Image of transmit-text.png](https://github.com/chengl11/EC601-Project03/blob/main/Phase01/images/transmit-text.png){:height="50%" width="50%"}
 
-2. Create new repository called EC601-Project03 and upload all the tests.
+5. **Create new repository called EC601-Project03 and upload all the tests.**
