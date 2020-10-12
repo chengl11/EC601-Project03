@@ -9,7 +9,7 @@ This is a repository for EC601 Project03 Phase 01. This phase is to:
 1. Install or Run the Open Source Project.
 2. Reproduce their results.
 
-For my project, this phase is to test the WebRTC JavaScript code samples. All of the original codes of these samples can be found at https://github.com/webrtc/samples.
+For this project, phase 01 is to test the WebRTC JavaScript code samples. All of the original codes of these samples can be found at https://github.com/webrtc/samples.
 
 ## Testing Step
 
