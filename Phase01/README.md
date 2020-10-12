@@ -3,15 +3,15 @@
 **Due Date:** 10/12/2020\
 **Project Name:** EC601-Project03-Phase01
 
-### Description
+## Description
 
 This is a repository for EC601 Project03 Phase 01. This phase is to:
 1. Install or Run the Open Source Project.
 2. Reproduce their results.
 
-For my project, this phase is to test the WebRTC JavaScript code samples. All of the codes of these samples can be found at https://github.com/chengl11/samples.
+For my project, this phase is to test the WebRTC JavaScript code samples. All of the original codes of these samples can be found at https://github.com/webrtc/samples.
 
-### Testing Step
+## Testing Step
 
 1. **Fork the copy of https://github.com/webrtc/samples into my account https://github.com/chengl11/samples.**
 
@@ -28,3 +28,5 @@ For my project, this phase is to test the WebRTC JavaScript code samples. All of
 ![Image of transmit-text.png](https://github.com/chengl11/EC601-Project03/blob/main/Phase01/images/transmit-text.png)
 
 5. **Create new repository called EC601-Project03 and upload all the files.**
+
+## Reference
