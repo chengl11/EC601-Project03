@@ -13,7 +13,7 @@ This is a repository for EC601 Project03. This project is to test the WebRTC Jav
 1. Fork the copy of https://github.com/webrtc/samples into my account https://github.com/chengl11/samples.
 
 2. Open repository in VS Code by using GitHub Desktop.
-![Image of github-destop](images\github-destop.png)
+![Image of github-destop](https://github.com/chengl11/EC601-Project03/blob/main/images/github-destop.png)
 ![Image of samples-code-in-VSCode](images\samples-in-vscode.png)
 
 3. Open index.html in my browser Chrome.
