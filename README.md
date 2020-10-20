@@ -1,7 +1,7 @@
 # EC601-Project03
-Author Name: Lin Cheng (U14828854)
-Due Date: 10/19/2020
-Project Name: EC601-Project03
+**Author Name:** Lin Cheng (U14828854)\
+**Due Date:** 10/19/2020\
+**Project Name:** EC601-Project03
 
 ## 1.Description
 
